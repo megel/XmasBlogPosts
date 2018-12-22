@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Xmas-Blog-Posts">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 4203031970 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Xmas Blog Posts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME Xmas Blog Post List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4203031970 - Action 530900094 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Blog Post</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME Xmas Blog Post List - Action OpenBlogPost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2435886476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Xmas Blog Post</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MME Xmas Control Factbox - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

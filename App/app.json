@@ -1,0 +1,22 @@
+{
+    "id": "9b6d5f8d-442e-43bd-9bd4-9e462537d536",
+    "name": "Xmas-Blog-Posts",
+    "publisher": "Michael Megel",
+    "version": "1.0.0.0",
+    "brief": "Microsoft Dynamics 365 Business Central - Xmas Blog Posts",
+    "description": "All Xmas Blog Posts from Microsoft listed in an MSDYN365BC App",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "11.0.0.0",
+    "application": "11.0.0.0",
+    "idRange": {
+        "from": 50100,
+        "to": 50149
+    },
+    "capabilities": [],
+    "features": ["TranslationFile"],
+    "runtime": "2.2"
+}
