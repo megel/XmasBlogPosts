@@ -1,6 +1,6 @@
 # Xmas Blog Posts
 
-Why not to include the great blog posts from ["Counting down to the holidays with daily blogs"](https://community.dynamics.com/business/b/financials/archive/2018/12/19/counting-down-to-the-holidays-with-daily-blogs) into Microsoft Dynamics 365 Business Central? This was the question and in this repository you find an answer.
+Why not to include the great blog posts from ["Counting down to the holidays with daily blogs" from **Microsoft**](https://community.dynamics.com/business/b/financials/archive/2018/12/19/counting-down-to-the-holidays-with-daily-blogs) into Microsoft Dynamics 365 Business Central? This was the question and in this repository you find an answer.
 
 In my example I want to focus on usage of some of the new datatypes:
 
